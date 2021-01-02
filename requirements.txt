@@ -1,0 +1,6 @@
+An efficient and effective Decentralized
+Anonymous Voting System
+1.HTML
+2.CSS
+3.Javascript
+4.flask
