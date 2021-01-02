@@ -1,7 +1,7 @@
 # project1
-# decentralized-voting-system
+# Decentralized-voting-system
 
-A decentralized voting system where a user can walk into a government authorized center (Ex- banks, telecom companies etc.) and cast their vote using the proposed portal.
+A Decentralized voting system where a user can walk into a government authorized center (Ex- banks, telecom companies etc.) and cast their vote using the proposed portal.
 
 
 
