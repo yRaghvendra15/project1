@@ -23,7 +23,7 @@ A user will walk into a government authorized center and complete his/her biomet
 
 ## Workflow Diagram
 
- <img src="/images/workflow.PNG" alt="WORKFLOW"/>
+ 
  
 ## Voting System Workflow
 
@@ -31,7 +31,7 @@ During the election time the admin will initiate the election. When the election
 
 **NOTE:** At the end of the election, the candidate with the most votes is elected.
 
-<img src="/images/portal_workflow.png" alt="PORTAL WORKFLOW"/>
+
 
 ## Technologies
 
