@@ -5,7 +5,6 @@ A decentralized voting system where a user can walk into a government authorized
 
 
 
-**NOTE:** All diagrams are made by me and appropriate credits must be given before copying it.
 ## Key Advantages
 
  - **No VoterID required** as a user's validity (age: 18+) is determined dynamically using the Aadhaar API 
@@ -21,7 +20,6 @@ A decentralized voting system where a user can walk into a government authorized
 
 A user will walk into a government authorized center and complete his/her biometric verification. Once the verification is complete the user will be taken to a web-based portal **(developed by me)** where he/she will be presented with the voting options. The portal then sends the information of the user's vote (encrypted) to backend **(developed by me)** where the data will be decrypted and the vote's transaction from the user to the candidate will take place using the Azure blockchain service. The candidate with the most votes is elected. During each election time the users are that are voted are logged which will make sure only one transaction can be made by the user during the whole election process.
 
-## Workflow Diagram
 
  
  
